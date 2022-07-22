@@ -7,6 +7,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: week_3.pdf
 uid: e7fd9d0e-ae0d-1302-8113-37f5c9e2edfe
 ---
 This resource provides information about IC structure prior to 9/11, major reasons for reform, recommendations of 9/11 commission, reform act of 2004, current IC and budget.
-

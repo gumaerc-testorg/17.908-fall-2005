@@ -6,6 +6,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week_13.pdf
 uid: 0718bf6e-cdb7-371f-6fe8-a9a944efb9b5
 ---
 This resource provides the detail about overview, executive and judicial oversight, legislative oversight and key issues.
-

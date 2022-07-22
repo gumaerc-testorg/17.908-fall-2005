@@ -7,6 +7,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: week_4.pdf
 uid: 3b78731d-0a4c-931b-6c8c-85c22516c24c
 ---
 This resource provides information about major collection issues and controversies, overview of major collection agencies and INTS and key collections issues.
-

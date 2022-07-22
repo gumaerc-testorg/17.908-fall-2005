@@ -7,6 +7,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: week_9.pdf
 uid: 879b3014-6339-ee1b-1647-461a4dd6d1a0
 ---
 This resource provides information about military intelligence overview, current use of national intelligence, new concerns develop, counterinsurgency problem and new intelligence requirements.
-

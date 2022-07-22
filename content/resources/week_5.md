@@ -8,6 +8,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: week_5.pdf
 uid: 4f79d6c7-0cdb-fb1e-e144-8a5635a31732
 ---
 This resource provides information about history of humint during cold war, role of CIA, how DO functions, problems with humint, counterintelligence, CIA-FBI dual roles, problems with CI and review of major national collectors vs departmental collectors.
-

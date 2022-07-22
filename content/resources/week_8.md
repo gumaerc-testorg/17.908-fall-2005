@@ -7,6 +7,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: week_8.pdf
 uid: 25491a90-bf4f-f0b9-45a2-3cfdcdaf20fa
 ---
 This resource provides information about difference between surprise attack and strategic warning, betts on intelligence failures and strategic warning process.
-

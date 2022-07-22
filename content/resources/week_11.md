@@ -6,6 +6,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week_11.pdf
 uid: e09d57e7-b31d-44f4-0ded-52042f49444e
 ---
 This resource provide information about counterterrorism overview, collection problems, analytic problems, whose in charge? and bottom line.
-

@@ -6,6 +6,7 @@ file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-nationa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week_6.pdf
 uid: 395dafeb-d8c4-bc88-4a2b-1af93556b392
 ---
 This resource provides information about types of snalysis, major analytic agencies, how analysis is done, analytic tools and typical day.
-
