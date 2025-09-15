@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about types of snalysis, major analytic
   agencies, how analysis is done, analytic tools and typical day.
-file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/395dafebd8c4bc884a2b1af93556b392_week_6.pdf
+file: /ol-ocw-studio-app/courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/395dafebd8c4bc884a2b1af93556b392_week_6.pdf
+file_size: 18189
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

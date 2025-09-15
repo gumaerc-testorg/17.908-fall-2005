@@ -3,7 +3,8 @@ content_type: resource
 description: This resource provides information about military intelligence overview,
   current use of national intelligence, new concerns develop, counterinsurgency problem
   and new intelligence requirements.
-file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/879b30146339ee1b1647461a4dd6d1a0_week_9.pdf
+file: /ol-ocw-studio-app/courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/879b30146339ee1b1647461a4dd6d1a0_week_9.pdf
+file_size: 16293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

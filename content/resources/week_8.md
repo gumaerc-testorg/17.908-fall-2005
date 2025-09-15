@@ -3,7 +3,8 @@ content_type: resource
 description: This resource provides information about difference between surprise
   attack and strategic warning, betts on intelligence failures and strategic warning
   process.
-file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/25491a90bf4ff0b945a23cfdcdaf20fa_week_8.pdf
+file: /ol-ocw-studio-app/courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/25491a90bf4ff0b945a23cfdcdaf20fa_week_8.pdf
+file_size: 18488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

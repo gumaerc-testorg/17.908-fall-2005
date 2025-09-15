@@ -3,7 +3,8 @@ content_type: resource
 description: This resource provides information on background, propaganda, intelligence
   support, and political influence, paramilitary operations, regime change, coups,
   and assassinations and key issues-criteria for covert action.
-file: /courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/45bc96794c05a85ef26395780a1b0613_week_10.pdf
+file: /ol-ocw-studio-app/courses/17-908-reading-seminar-in-social-science-intelligence-and-national-security-fall-2005/45bc96794c05a85ef26395780a1b0613_week_10.pdf
+file_size: 16340
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
