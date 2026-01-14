@@ -22,13 +22,13 @@ This book, by two former government officials and scholars, takes a more theoret
 ## Online Intel Resources
 
 An exhaustive compendium of intelligence literature is available at:      
-Clark, J. Ransom. {{% resource_link "683a0baa-c533-44e0-a380-a2362735ee9b" "*The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments*" %}}.
+Clark, J. Ransom. [*The Literature of Intelligence: A Bibliography of Materials, with Essays, Reviews, and Comments*](http://intellit.muskingum.edu/index).
 
-The {{% resource_link "81cbd980-6c0e-45d7-944d-4cb8bca6a26e" "CIA's Center for the Study of Intelligence" %}} posts unclassified articles and conference reports that are useful for this course.
+The [CIA's Center for the Study of Intelligence](https://www.cia.gov/library/center-for-the-study-of-intelligence/) posts unclassified articles and conference reports that are useful for this course.
 
-The {{% resource_link "003f395c-2a94-4881-bf52-75ae010e8ee0" "Federation of American Scientists" %}} and the {{% resource_link "b6e59991-a59b-4ccc-9704-a8125c8e4a4f" "National Security Archive" %}} also maintain Web sites on intelligence topics.
+The [Federation of American Scientists](http://fas.org/irp/) and the [National Security Archive](http://nsarchive.chadwyck.com/) also maintain Web sites on intelligence topics.
 
-Daily media articles on current intelligence topics are posted by the {{% resource_link "30754b93-250a-4c4e-8ecc-f5dc02ccca62" "Centre for Counterintelligence and Security Studies" %}}.
+Daily media articles on current intelligence topics are posted by the [Centre for Counterintelligence and Security Studies](http://cicentre.com/).
 
 ## {{< anchor "readings" >}}{{< /anchor >}}Readings by Session
 
@@ -54,7 +54,7 @@ Shulsky, Abram N., and Gary J. Schmitt. *Silent Warfare: Understanding the World
 
 Warner, Michael. "Wanted, a Definition of Intelligence." *Studies in Intelligence* 46, no. 3 (2002).
 
-Aspin-Brown Commission. "{{% resource_link "7b7f9fcb-38f8-43d4-8cbf-037cf27d24e2" "The Need to Maintain an Intelligence Capability" %}}." *Preparing for the 21st Century: An Appraisal of U.S. Intelligence*. March 1, 1996, chapter 1.
+Aspin-Brown Commission. "[The Need to Maintain an Intelligence Capability](http://www.fas.org/irp/offdocs/int005.html)." *Preparing for the 21st Century: An Appraisal of U.S. Intelligence*. March 1, 1996, chapter 1.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -68,11 +68,11 @@ This session looks at the origins if the Intelligence Community (IC) and its cur
 
 Lowenthal, Mark M. *Intelligence: From Secrets to Policy*. 2nd ed. Washington, DC: CQ Press, 2003, chapter 2, and 4, pp. 10-24, and 41-53. ISBN: 9781568027593.
 
-Warner, Mark, ed. *Central Intelligence: Origin and Evolution*. Washington, DC: Center for the Study of Intelligence, CIA, 2001. ({{% resource_link "7bad9c73-cb24-4a14-b23a-bc803aed0ec1" "PDF" %}})
+Warner, Mark, ed. *Central Intelligence: Origin and Evolution*. Washington, DC: Center for the Study of Intelligence, CIA, 2001. ([PDF](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Origin_and_Evolution.pdf))
 
 George, Roger Z. and Robert D. Kline, eds. *Intelligence and the National Security Strategist: Enduring Issues and Challenges*. Washington, DC: National Defense University Press, 2004.
 
-Aspin-Brown Commission. "{{% resource_link "aba7c8cc-0f83-4e96-81c0-64b719fc5dcb" "The Evolution of the U.S. Intelligence Community" %}}." (Appendix A)
+Aspin-Brown Commission. "[The Evolution of the U.S. Intelligence Community](http://www.fas.org/irp/offdocs/int022.html)." (Appendix A)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -134,7 +134,7 @@ Riley, Patrick. "CIA and Its Discontents." In *Strategic Intelligence*. Edited b
 
 Cogan, Charles. "The In-Culture of the DO." In *Intelligence and the National Security Strategist: Enduring Issues and Challenges*. Edited by Roger Z. George, and Robert D. Kline. Washington, DC: National Defense University Press, 2004, chapter 15.
 
-{{% resource_link "f65076df-1022-4df4-a72b-009c6d952324" "Statement by Brian Fairchild before the Joint Economic Committee of the U.S. Congress" %}}. May 20, 1998, pp. 1-13.
+[Statement by Brian Fairchild before the Joint Economic Committee of the U.S. Congress](http://www.fas.org/irp/congress/1998_hr/fairchld.htm). May 20, 1998, pp. 1-13.
 
 Olson, James M. "The Ten Commandants of Counterintelligence." In *Intelligence and the National Security Strategist: Enduring Issues and Challenges*. Edited by Roger Z. George, and Robert D. Kline. Washington, DC: National Defense University Press, 2004, chapter 18.
 
@@ -172,9 +172,9 @@ George, Roger Z., and Robert D. Kline. Part IX in *Intelligence and National Sec
 
 Herman, Michael. "Intelligence and National Action." In *Strategic Intelligence*. Edited by Loch K. Johnson, and James J. Wirtz. Los Angeles, CA: Roxbury Publishing, 2004, chapter 17. ISBN: 9781931719278.
 
-Senate Select Committee on Intelligence. {{% resource_link "5c0cafae-e1ca-4417-9869-427cea680f58" "\"Report on the U.S. Intelligence Community's Pre-war Assessments on Iraq.\" (PDF)" %}} 2004, pp. 1-30. (Conclusions)
+Senate Select Committee on Intelligence. ["Report on the U.S. Intelligence Community's Pre-war Assessments on Iraq." (PDF)](http://nsarchive.gwu.edu/NSAEBB/NSAEBB234/SSCI_phaseI_excerpt.pdf) 2004, pp. 1-30. (Conclusions)
 
-Summary of the Duelfer Report. ({{% resource_link "f853c571-f033-4ae1-9127-bd8c81672382" "PDF" %}})
+Summary of the Duelfer Report. ([PDF](https://www.cia.gov/library/reports/general-reports-1/iraq_wmd_2004/Comp_Report_Key_Findings.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -191,7 +191,7 @@ Shulsky, Abram N., and Gary J. Schmitt. *Silent Warfare: Understanding the World
 
 Betts, Richard. "Analysis, War and Decision: Why Intelligence Failures Are Inevitable." *World Politics* 31, no. 1.
 
-Davis, Jack. "Strategic Warning." *Occasional Papers* (2003): 2-9. ({{% resource_link "ecf81396-0bbd-48a1-a120-bc0e3264a6f8" "PDF" %}})
+Davis, Jack. "Strategic Warning." *Occasional Papers* (2003): 2-9. ([PDF](https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPV2No1.pdf))
 
 Vickers, Robert. "The State of Warning Today." *Defense Intelligence Journal* (1998): 9-15.
 
@@ -259,7 +259,7 @@ This session will look at the special challenge to intelligence in supporting no
 
 Treverton, Gregory. "Intelligence:Achilles Heal of the Bush Doctrine." *Arms Control Today* (Jul-Aug 2003): 1-5.
 
-{{% resource_link "a12d64e9-4ac1-4e20-8ba3-e9661766d2c6" "Commission on the Intelligence Capabilities of the U.S. Regarding Weapons of Mass Destruction" %}}. Washington, DC, 2005, overview, and chapter 13, pp. 1-37, and 501-536.
+[Commission on the Intelligence Capabilities of the U.S. Regarding Weapons of Mass Destruction](http://govinfo.library.unt.edu/wmd/about.html). Washington, DC, 2005, overview, and chapter 13, pp. 1-37, and 501-536.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
